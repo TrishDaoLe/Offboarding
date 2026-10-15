@@ -103,10 +103,10 @@ function get-onboardingtable {
    $Global:Table = get-azstoragetable -name $storagetable -context $sa.context
 }
 
-function Connect-RWAGraph {
+function Connect-Graph {
    # Connect to Microsoft Graph
    try {
-      $tenantid = Get-AzKeyVaultSecret -VaultName $keyvault -Name "RWA-tenantid" -AsPlainText
+      $tenantid = Get-AzKeyVaultSecret -VaultName $keyvault -Name "tenantid" -AsPlainText
       $clientid = Get-AzKeyVaultSecret -VaultName $keyvault -Name "clientid-secret" -AsPlainText
       $CertificateName = Get-AzKeyVaultSecret -VaultName $keyvault -Name "certificate-name-secret" -AsPlainText
       $Certificate = Get-AzKeyVaultSecret -VaultName $keyvault -Name $CertificateName -AsPlainText
@@ -120,7 +120,7 @@ function Connect-RWAGraph {
       }  
 }
 
-function Get-RWATableRow {
+function Get-TableRow {
     [CmdletBinding()]
     param(
         [Parameter(Mandatory)][string]$StorageAccountName,
@@ -134,7 +134,7 @@ function Get-RWATableRow {
         $tokenRaw = Get-AzAccessToken -ResourceTypeName Storage
     }
         catch {
-            Write-Log -Message "Error: Cannot retrieve access token for storage table $TableName in $StorageAccountName" -level "Error" -Activity "Get-RWATableRow"
+            Write-Log -Message "Error: Cannot retrieve access token for storage table $TableName in $StorageAccountName" -level "Error" -Activity "Get-TableRow"
             throw
         }
 
@@ -149,7 +149,7 @@ function Get-RWATableRow {
         $tokenText = [string]$tokenRaw.Token
     }
 
-    #Write-Log -Message "Azure Table Access Token: $tokenText" -level "Debug" -Activity "Get-RWATableRow"
+
 
     # Set headers
     $headers = @{
@@ -166,10 +166,10 @@ function Get-RWATableRow {
         $headers["x-ms-date"] = (Get-Date).ToUniversalTime().ToString("R")
         try {
             $resp = Invoke-WebRequest -Method GET -Uri $nextUri -Headers $headers -Verbose:$false -ProgressAction SilentlyContinue
-            #Write-Log -Message "Storage table response: $resp" -level "Debug" -Activity "Get-RWATableRow"
+           
         }
             catch {
-                Write-Log -Message "Error: Cannot retrieve rows from storage table $TableName in $StorageAccountName" -level "Error" -Activity "Get-RWATableRow"
+                Write-Log -Message "Error: Cannot retrieve rows from storage table $TableName in $StorageAccountName" -level "Error" -Activity "Get-TableRow"
                 throw
             }
         
@@ -191,7 +191,7 @@ function Get-RWATableRow {
         }
 }
 
-function Add-RWATableRow {
+function Add-TableRow {
     [CmdletBinding()]
     param(
         [Parameter(Mandatory)][string]$StorageAccountName,
@@ -211,7 +211,7 @@ function Add-RWATableRow {
         $tokenRaw = Get-AzAccessToken -ResourceTypeName Storage
     }
         catch {
-            Write-Log -Message "Error: Cannot retrieve access token for storage table $TableName in $StorageAccountName" -level "Error" -Activity "Add-RWATableRow"
+            Write-Log -Message "Error: Cannot retrieve access token for storage table $TableName in $StorageAccountName" -level "Error" -Activity "Add-TableRow"
             throw
         }
 
@@ -227,7 +227,7 @@ function Add-RWATableRow {
         $tokenText = [string]$tokenRaw.Token
     }
 
-    #Write-Log -Message "Azure Table Access Token: $tokenText" -level "Debug" -Activity "Add-RWATableRow"
+    #Write-Log -Message "Azure Table Access Token: $tokenText" -level "Debug" -Activity "Add-TableRow"
 
     $headers = @{
         "Accept"        = "application/json;odata=nometadata"
@@ -258,7 +258,7 @@ function Add-RWATableRow {
     try {
         # Expect 201 for insert
         $resp = Invoke-WebRequest -Method POST -Uri $tableUrl -Headers $headers -Body $body -Verbose:$false -UseBasicParsing
-        #Write-Log -Message "Storage table response: $resp" -level "Debug" -Activity "Add-RWATableRow"
+        #Write-Log -Message "Storage table response: $resp" -level "Debug" -Activity "Add-TableRow"
         return $true
     } 
         catch {
@@ -269,7 +269,7 @@ function Add-RWATableRow {
                 try {
                     # Expect 204 No Content
                     $resp2 = Invoke-WebRequest -Method MERGE -Uri $entityUrl -Headers $mergeHeaders -Body $body -ErrorAction Stop
-                    #Write-Log -Message "Storage table response: $resp2" -level "Debug" -Activity "Add-RWATableRow"
+                    #Write-Log -Message "Storage table response: $resp2" -level "Debug" -Activity "Add-TableRow"
                     return $true
                 } catch {
                     throw "Merge failed for PK='$PartitionKey', RK='$RowKey'. $($_.Exception.Message)"
@@ -279,7 +279,7 @@ function Add-RWATableRow {
     }
 }
 
-function Remove-RWATableRow {
+function Remove-TableRow {
     [CmdletBinding()]
     param(
         [Parameter(Mandatory)][string]$StorageAccountName,
@@ -295,7 +295,7 @@ function Remove-RWATableRow {
         $tokenRaw = Get-AzAccessToken -ResourceTypeName Storage
     }
         catch {
-            Write-Log -Message "Error: Cannot retrieve access token for storage table $TableName in $StorageAccountName" -level "Error" -Activity "Remove-RWATableRow"
+            Write-Log -Message "Error: Cannot retrieve access token for storage table $TableName in $StorageAccountName" -level "Error" -Activity "Remove-TableRow"
             throw
         }
 
@@ -311,7 +311,7 @@ function Remove-RWATableRow {
         $tokenText = [string]$tokenRaw.Token
     }
 
-    #Write-Log -Message "Azure Table Access Token: $tokenText" -level "Debug" -Activity "Remove-RWATableRow"
+    #Write-Log -Message "Azure Table Access Token: $tokenText" -level "Debug" -Activity "Remove-TableRow"
 
     # Headers
     $headers = @{
@@ -450,16 +450,16 @@ Function Get-RandomPassword {
     }
 }
 
-function Connect-RWAJiraPS {
+function Connect-JiraPS {
    Import-Module JiraPS
    if (($env:jira_Server) -and ($env:jira_svcaccount_Username) -and ($env:jira_svcaccount_APIToken)){
-       write-log -Message "Jira environment variables found" -Level "Verbose" -Activity "Connect-RWAJiraPS"
+       write-log -Message "Jira environment variables found" -Level "Verbose" -Activity "Connect-JiraPS"
        $jiraURI = $env:jira_Server
        $jiraUsername = $env:jira_svcaccount_Username
        $jiraAPIToken = $env:jira_svcaccount_APIToken
    }
    if ($keyvault){
-       write-log -Message "Jira Keyvault variable found" -Level "Verbose" -Activity "Connect-RWAJiraPS"
+       write-log -Message "Jira Keyvault variable found" -Level "Verbose" -Activity "Connect-JiraPS"
        $jiraURI = Get-AzKeyVaultSecret -VaultName $keyvault -Name "jiracfg-server-secret" -AsPlainText
        $jiraUsername = Get-AzKeyVaultSecret -VaultName $keyvault -Name "username-secret" -AsPlainText
        $jiraAPIToken = Get-AzKeyVaultSecret -VaultName $keyvault -Name "apitoken-secret" -AsPlainText
@@ -671,7 +671,7 @@ function Add-BusinessDays {
 
     while ($daysMoved -lt [Math]::Abs($DaysToAdd)) {
 
-        # Move forward or backward one day
+        # Move ford or backward one day
         $currentDate = $currentDate.AddDays($direction)
 
         $isWeekend = $currentDate.DayOfWeek -in @('Saturday', 'Sunday')
@@ -703,18 +703,18 @@ function Get-JiraAuthHeader {
 
 Export-ModuleMember -Function Log-Message
 Export-ModuleMember -Function Get-RandomPassword
-Export-ModuleMember -Function Connect-RWAJiraPS
+Export-ModuleMember -Function Connect-JiraPS
 Export-ModuleMember -Function get-offboardingjobs
 Export-ModuleMember -Function get-onboardingjobs
 Export-ModuleMember -Function send-mail
 Export-ModuleMember -Function get-offboardingtable
 Export-ModuleMember -Function get-onboardingtable
-Export-ModuleMember -Function Connect-RWAGraph
+Export-ModuleMember -Function Connect-Graph
 Export-ModuleMember -Function get-phonetable
 Export-ModuleMember -Function get-phonenumberrow
-Export-ModuleMember -Function Get-RWATableRow
-Export-ModuleMember -Function Add-RWATableRow
-Export-ModuleMember -Function Remove-RWATableRow
+Export-ModuleMember -Function Get-TableRow
+Export-ModuleMember -Function Add-TableRow
+Export-ModuleMember -Function Remove-TableRow
 Export-ModuleMember -Function Set-Step
 Export-ModuleMember -Function Write-StepSummary
 Export-ModuleMember -Function Write-Log
