@@ -17,6 +17,3 @@ Executes initial offboarding automation triggered by Jira
 14. Assign OneDrive Access
 15. Send Manager Email
 16. Create Sub-task Ticket
-
-  - Need to add DueDate and Assignee to webhook
-  - Need to align custom field ids 
