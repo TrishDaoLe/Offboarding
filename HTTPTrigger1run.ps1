@@ -226,7 +226,7 @@ function Remove-AuthenticationMethods {
         }
 }
 
-function Revoke-RWAUserActiveSession {
+function Revoke-UserActiveSession {
     param([Parameter(Mandatory)][string]$UserId)
     #Revoke Active Signin session
     try {
@@ -510,7 +510,7 @@ function Set-UserCoreFields {
             $Company = $mgUser.CompanyName
     }
         else {
-            $Company = "xRWA Wealth Partners"
+            $Company = "x Wealth Partners"
         }
     try {
         $mg = Update-MgUser -UserId $UserId -CompanyName $Company -employeeLeaveDateTime $LeaveDate
@@ -1126,7 +1126,7 @@ function Send-OffboardingEmail {
 } 
 
 
-Write-Log -Message "=== RWA IT Offboarding Runbook Started ===" -Level "information"
+Write-Log -Message "===  IT Offboarding Runbook Started ===" -Level "information"
 
 # Parse webhook JSON
 
@@ -1187,11 +1187,11 @@ Write-Log -Message "Fail Run On Any Error: $FailRunOnAnyError" -Activity "Parse 
 # 1) Connect to Jira Service Management
 Set-Step -Name "Connect to Jira Service Management" -Status "Started"
 try {
-    Connect-RWAJiraPS
+    Connect-JiraPS
 } 
     catch {
         Set-Step -Name "Connect to Jira Service Management" -Message "Connection failure" -Status "Failed" -Ticket $Ticket
-        Write-Log -Message "RWA IT Offboarding Runbook Aborted Early" -Level "Information" -Ticket $Ticket
+        Write-Log -Message " IT Offboarding Runbook Aborted Early" -Level "Information" -Ticket $Ticket
         return (New-Object -TypeName HttpResponseContext -Property @{
                 StatusCode = 400
                 Body       = "Connect to Jira Service Management Failed"
@@ -1217,7 +1217,7 @@ try {
 } 
     catch {
         Set-Step -Name "Derive Offboarding Details" -Message "Failed to derive identity: $($_.Exception.Message)" -Status "Failed" -Ticket $Ticket
-        Write-Log -Message "RWA IT Offboarding Runbook Aborted Early" -Level "Information" -Ticket $Ticket
+        Write-Log -Message " IT Offboarding Runbook Aborted Early" -Level "Information" -Ticket $Ticket
         return (New-Object -TypeName HttpResponseContext -Property @{
             StatusCode = 400
             Body       = "Derive Offboarding Details Failed"
@@ -1237,7 +1237,7 @@ try {
 } 
     catch {
         Set-Step -Name "Validate Inputs" -Message "$($_.Exception.Message)" -Status "Failed" -Ticket $Ticket
-        Write-Log -Message "RWA IT Offboarding Runbook Aborted Early" -Level "information" -ticket $Ticket
+        Write-Log -Message " IT Offboarding Runbook Aborted Early" -Level "information" -ticket $Ticket
         return (New-Object -TypeName HttpResponseContext -Property @{
             StatusCode = 400
             Body       = "Validate Inputs Failed"
@@ -1271,7 +1271,7 @@ try {
     catch {
         Set-Step -Name "Reset Password" -Message "Error: $($_.Exception.Message)" -Status "Failed" -Ticket $Ticket
         if ($FailRunOnAnyError) {
-            Write-Log -Message "RWA IT Offboarding Runbook Aborted Early" -Level "information" -ticket $Ticket
+            Write-Log -Message " IT Offboarding Runbook Aborted Early" -Level "information" -ticket $Ticket
             return (New-Object -TypeName HttpResponseContext -Property @{
                 StatusCode = 400
                 Body       = "Reset Password Failed"
@@ -1283,15 +1283,15 @@ try {
 # 4) Revoke Sign In Sessions
 Set-Step -Name "Revoke User Session" -Status "Started"
    try {
-        $rs = Revoke-RWAUserActiveSession -userId $upn
+        $rs = Revoke-UserActiveSession -userId $upn
         if (-not $rs) {
-            throw [InvalidOperationException]::new("Revoke-RWAUserActiveSession did not return a successful result.")
+            throw [InvalidOperationException]::new("Revoke-UserActiveSession did not return a successful result.")
         }
     }
         catch {
             Set-Step -Name "Revoke User Session" -Message "$($_.Exception.Message)" -Status "Failed" -Ticket $Ticket
             if ($FailRunOnAnyError) {
-                Write-Log -Message "RWA IT Offboarding Runbook Aborted Early" -Level "information" -ticket $Ticket
+                Write-Log -Message " IT Offboarding Runbook Aborted Early" -Level "information" -ticket $Ticket
                 return (New-Object -TypeName HttpResponseContext -Property @{
                     StatusCode = 400
                     Body       = "Revoke User Session Failed"
@@ -1310,7 +1310,7 @@ try {
     catch {
         Set-Step -Name "Remove Authentication Methods" -Message "$($_.Exception.Message)" -Status "Failed" -Ticket $Ticket
         if ($FailRunOnAnyError) { 
-            Write-Log -Message "RWA IT Offboarding Runbook Aborted Early" -Level "information" -ticket $Ticket
+            Write-Log -Message " IT Offboarding Runbook Aborted Early" -Level "information" -ticket $Ticket
             return (New-Object -TypeName HttpResponseContext -Property @{
                 StatusCode = 400
                 Body       = "Remove Authentication Methods"
@@ -1338,7 +1338,7 @@ try {
     catch {
         Set-Step -Name "Disable Account" -Message "$($_.Exception.Message)" -Status "Failed" -Ticket $Ticket
         if ($FailRunOnAnyError) {
-            Write-Log -Message "RWA IT Offboarding Runbook Aborted Early" -Level "information" -ticket $Ticket
+            Write-Log -Message " IT Offboarding Runbook Aborted Early" -Level "information" -ticket $Ticket
             return (New-Object -TypeName HttpResponseContext -Property @{
                 StatusCode = 400
                 Body       = "Disable Account Failed"
@@ -1360,7 +1360,7 @@ try {
     catch {
         Set-Step -Name "Webex Phone Forwarding" -Message "$($_.Exception.Message)" -Status "Failed" -Ticket $Ticket
         if ($FailRunOnAnyError) { 
-            Write-Log -Message "RWA IT Offboarding Runbook Aborted Early" -Level "information" -ticket $Ticket
+            Write-Log -Message " IT Offboarding Runbook Aborted Early" -Level "information" -ticket $Ticket
             return (New-Object -TypeName HttpResponseContext -Property @{
                 StatusCode = 400
                 Body       = "Webex Phone Forwarding Failed"
@@ -1389,7 +1389,7 @@ try {
     catch {
         Set-Step -Name "Update Core Fields" -Message "$($_.Exception.Message)" -Status "Failed" -Ticket $Ticket
         if ($FailRunOnAnyError) {
-            Write-Log -Message "RWA IT Offboarding Runbook Aborted Early" -Level "information" -ticket $Ticket
+            Write-Log -Message " IT Offboarding Runbook Aborted Early" -Level "information" -ticket $Ticket
             return (New-Object -TypeName HttpResponseContext -Property @{
                 StatusCode = 400
                 Body       = "Update Core Fields Failed"
@@ -1413,7 +1413,7 @@ try {
     catch {
         Set-Step -Name "Set Custom Attributes" -Message "$($_.Exception.Message)" -Status "Failed" -Ticket $Ticket
         if ($FailRunOnAnyError) {
-            Write-Log -Message "RWA IT Offboarding Runbook Aborted Early" -Level "information" -ticket $Ticket
+            Write-Log -Message " IT Offboarding Runbook Aborted Early" -Level "information" -ticket $Ticket
             return (New-Object -TypeName HttpResponseContext -Property @{
                 StatusCode = 400
                 Body       = "Set Ticket Failed"
@@ -1508,7 +1508,7 @@ if (($odPerm.Status -eq "Completed") -and ($mx.Status -eq "Completed")){
         catch {
             Set-Step -Name "Set M365 License" -Message "$($_.Exception.Message)" -Status "Failed" -Ticket $Ticket
             if ($FailRunOnAnyError) { 
-                Write-Log -Message "RWA IT Offboarding Runbook Aborted Early" -Level "information" -ticket $Ticket
+                Write-Log -Message " IT Offboarding Runbook Aborted Early" -Level "information" -ticket $Ticket
                 return (New-Object -TypeName HttpResponseContext -Property @{
                     StatusCode = 400
                     Body       = "Set M365 License Failed"
@@ -1533,7 +1533,7 @@ if (($odPerm.Status -eq "Completed") -and ($mbPerm.Status -eq "Completed") -and 
         catch {
             Set-Step -Name "Send Offboarding Email" -Message "$($_.Exception.Message)" -Status "Failed" -Ticket $Ticket
             if ($FailRunOnAnyError) {
-                Write-Log -Message "RWA IT Offboarding Runbook Aborted Early" -Level "information" -ticket $Ticket
+                Write-Log -Message " IT Offboarding Runbook Aborted Early" -Level "information" -ticket $Ticket
                 return (New-Object -TypeName HttpResponseContext -Property @{
                     StatusCode = 400
                     Body       = "Send New Hire Email Failed"
@@ -1560,4 +1560,4 @@ try {
 } catch {
     Write-Log -Message "Failed posting summary to Jira: $($_.Exception.Message)" -Level "Error"
 }
-Write-Log -Message "=== RWA IT Offboarding Runbook Finished ===" -Level "Information"
+Write-Log -Message "===  IT Offboarding Runbook Finished ===" -Level "Information"
