@@ -447,7 +447,7 @@ try {
 } 
     catch {
         Set-Step -Name "Connect to Jira Service Management" -Message "Connection failure" -Status "Failed" -Ticket $Ticket
-        Write-Log -Message "RWA IT Offboarding Runbook Aborted Early" -Level "Information" -Ticket $Ticket
+        Write-Log -Message " IT Offboarding Runbook Aborted Early" -Level "Information" -Ticket $Ticket
         return (New-Object -TypeName HttpResponseContext -Property @{
                 StatusCode = 400
                 Body       = "Connect to Jira Service Management Failed"
@@ -473,7 +473,7 @@ try {
 } 
     catch {
         Set-Step -Name "Derive Offboarding Details" -Message "Failed to derive identity: $($_.Exception.Message)" -Status "Failed" -Ticket $Ticket
-        Write-Log -Message "RWA IT Offboarding Runbook Aborted Early" -Level "Information" -Ticket $Ticket
+        Write-Log -Message " IT Offboarding Runbook Aborted Early" -Level "Information" -Ticket $Ticket
         return (New-Object -TypeName HttpResponseContext -Property @{
             StatusCode = 400
             Body       = "Derive Offboarding Details Failed"
@@ -492,7 +492,7 @@ try {
 } 
     catch {
         Set-Step -Name "Validate Inputs" -Message "$($_.Exception.Message)" -Status "Failed" -Ticket $Ticket
-        Write-Log -Message "RWA IT Offboarding Runbook Aborted Early" -Level "information" -ticket $Ticket
+        Write-Log -Message " IT Offboarding Runbook Aborted Early" -Level "information" -ticket $Ticket
         return (New-Object -TypeName HttpResponseContext -Property @{
             StatusCode = 400
             Body       = "Validate Inputs Failed"
