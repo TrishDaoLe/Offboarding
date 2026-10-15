@@ -1,0 +1,1486 @@
+[
+  {
+    "TaskName": "Terminate in ADP",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:845d16e6-d574-4f0b-9037-20256229a802",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:d1fab2d8-987d-4bcc-9200-7c0a802670e7"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Add to Payroll Capture",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:845d16e6-d574-4f0b-9037-20256229a802",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:d1fab2d8-987d-4bcc-9200-7c0a802670e7"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Employee Offboarding Attestations",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:845d16e6-d574-4f0b-9037-20256229a802",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:d1fab2d8-987d-4bcc-9200-7c0a802670e7"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Manager Exit Questionnaire",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:845d16e6-d574-4f0b-9037-20256229a802",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:d1fab2d8-987d-4bcc-9200-7c0a802670e7"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Terminate from Fidelity 401K",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:845d16e6-d574-4f0b-9037-20256229a802",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:d1fab2d8-987d-4bcc-9200-7c0a802670e7"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Send Agreement or Separation Documents",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:845d16e6-d574-4f0b-9037-20256229a802",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:d1fab2d8-987d-4bcc-9200-7c0a802670e7"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Employee Exit Interview",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:845d16e6-d574-4f0b-9037-20256229a802",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:d1fab2d8-987d-4bcc-9200-7c0a802670e7"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Remove from OP LinkPoint",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer. \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. \n\nLinkPoint \n– Send email to support@linkpoint360.com and request Linkpoint license removal",
+    "Reporter": "ahsmith@rwawealth.com",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:a0501775-9b41-4fe7-8674-1bd4e943bf14",
+      "712020:8b8c51c2-d2b5-4d92-82ed-c62362465ef5",
+      "712020:b08281ef-d29b-49a1-9bdc-d9c68ba1cb68"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Cancel RHO Card",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:df939226-d45e-4974-9074-7f45e0133dd8",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:2011a905-599a-4b11-abb6-49401cf78ed8"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Disable Navan",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:df939226-d45e-4974-9074-7f45e0133dd8",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:1bc801b9-5897-4904-ae9d-2beea7052672"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Remove from Wordpress",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:20068312-1cad-4ac6-a1dd-539c4e74a863",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:153ccee4-63c6-4a9d-83c1-dbdd8491e397"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Hootsuite - removing posting access",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:20068312-1cad-4ac6-a1dd-539c4e74a863",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:153ccee4-63c6-4a9d-83c1-dbdd8491e397"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "X/Twitter - remove posting access",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:20068312-1cad-4ac6-a1dd-539c4e74a863",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:153ccee4-63c6-4a9d-83c1-dbdd8491e397"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Youtube - remove posting access",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:20068312-1cad-4ac6-a1dd-539c4e74a863",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:153ccee4-63c6-4a9d-83c1-dbdd8491e397"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Remove from LinkedIn Posting access",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:20068312-1cad-4ac6-a1dd-539c4e74a863",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:153ccee4-63c6-4a9d-83c1-dbdd8491e397"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Remove from Figma",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:20068312-1cad-4ac6-a1dd-539c4e74a863",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:153ccee4-63c6-4a9d-83c1-dbdd8491e397"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Meta Business - remove access (Facebook/Instagram)",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:20068312-1cad-4ac6-a1dd-539c4e74a863",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:153ccee4-63c6-4a9d-83c1-dbdd8491e397"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Remove from Marketo",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:ef043709-60c1-4640-a9c7-b73f4cf902f2",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:153ccee4-63c6-4a9d-83c1-dbdd8491e397"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Remove from Website",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer. \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. \n\nWebsite \n– Contact Redlab web support to remove them based on term date",
+    "Reporter": "712020:20068312-1cad-4ac6-a1dd-539c4e74a863",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:153ccee4-63c6-4a9d-83c1-dbdd8491e397"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Remove from OptimaWorldwide Shipping",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:1a312fc5-129e-4487-b17d-9a3e4083ce7c",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:928bb7c4-6658-4347-94af-79ccd0371078"
+    ],
+    "DueDateOffset": "5"
+  },
+  {
+    "TaskName": "Remove from XPS Shipper",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:1a312fc5-129e-4487-b17d-9a3e4083ce7c",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:928bb7c4-6658-4347-94af-79ccd0371078"
+    ],
+    "DueDateOffset": "5"
+  },
+  {
+    "TaskName": "Remove from WB Mason & other Workplace Operations vendor accounts",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:1a312fc5-129e-4487-b17d-9a3e4083ce7c",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:928bb7c4-6658-4347-94af-79ccd0371078"
+    ],
+    "DueDateOffset": "5"
+  },
+  {
+    "TaskName": "Update org chart",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:928bb7c4-6658-4347-94af-79ccd0371078",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [],
+    "DueDateOffset": "2"
+  },
+  {
+    "TaskName": "Remove from Holistiplan",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:96bfb401-067e-4195-b5e7-658f69fefa49",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:1bc801b9-5897-4904-ae9d-2beea7052672"
+    ],
+    "DueDateOffset": "1"
+  },
+  {
+    "TaskName": "eMoney - Licensing Removal",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:96bfb401-067e-4195-b5e7-658f69fefa49",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:c6f0b743-256a-4a30-9554-aeaf21ae98e7"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Remove from Kitces",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:96bfb401-067e-4195-b5e7-658f69fefa49",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Remove the WA from the Marketo workflow",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:ef043709-60c1-4640-a9c7-b73f4cf902f2",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:20068312-1cad-4ac6-a1dd-539c4e74a863"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Remove from Family Office Salesforce",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "5b522236ead3d32bff255c9b",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:1bc801b9-5897-4904-ae9d-2beea7052672"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Remove from Pontera",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:343b10e9-da6e-43ea-8572-ba77c07565f7",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:ffb2cc56-3559-4d4c-8f37-8abef00ece24"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Remove from ICE (Intercontinental Exchange Trading Platform)",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:b6a97413-f938-46b0-8a4a-ae9715850ddd",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:ffb2cc56-3559-4d4c-8f37-8abef00ece24"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Remove Morningstar access/reassign license",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:d73df5a9-28e9-4cd2-93b2-4c45047afd2d",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:894af92d-4d74-4039-9102-55e019ab8876"
+    ],
+    "DueDateOffset": "2"
+  },
+  {
+    "TaskName": "Remove Factset access/reassign license",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:d73df5a9-28e9-4cd2-93b2-4c45047afd2d",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:8bfc94a8-3bad-4a04-b15e-a022f56deb31"
+    ],
+    "DueDateOffset": "5"
+  },
+  {
+    "TaskName": "Remove from Ycharts",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "62d02c2a4c909d6a57ab4ee9",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:8bfc94a8-3bad-4a04-b15e-a022f56deb31"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Remove from Bloomberg",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "62d02c2a4c909d6a57ab4ee9",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:d73df5a9-28e9-4cd2-93b2-4c45047afd2d"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "CCH Axcess & Workflow",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:008a0ab2-c589-44c2-bc01-1dc8d512b176",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:a7109b22-086c-4eb7-8171-60e0129a0320"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "CSC",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:84921a38-d39e-413a-b332-58c34706f9ce",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:83ecb365-bdca-48a6-b845-714ef8bbc64b"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "FINRA Gateway",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "vnoe@rwawealth.com",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "ibrennan@rwawealth.com"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Request accounts feeding into ComplySci to be stopped.",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:fafac77d-1710-4edb-97ff-f728f60594f1",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "ibrennan@rwawealth.com"
+    ],
+    "DueDateOffset": "2"
+  },
+  {
+    "TaskName": "Remove from Compliance Supervised Persons/Access Person list. Add individual to the Compliance Former Employee list.",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:fafac77d-1710-4edb-97ff-f728f60594f1",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "ibrennan@rwawealth.com"
+    ],
+    "DueDateOffset": "2"
+  },
+  {
+    "TaskName": "If applicable, submit U5 filing if required and send copy to employee",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:fafac77d-1710-4edb-97ff-f728f60594f1",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:907ac029-7877-400c-b6c3-86013df95fd5"
+    ],
+    "DueDateOffset": "2"
+  },
+  {
+    "TaskName": "Review final attestations submitted",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:fafac77d-1710-4edb-97ff-f728f60594f1",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:907ac029-7877-400c-b6c3-86013df95fd5"
+    ],
+    "DueDateOffset": "5"
+  },
+  {
+    "TaskName": "Remove from CAIS",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:abe71eb7-9034-48b6-bd98-00c4c7ae1178",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:343b10e9-da6e-43ea-8572-ba77c07565f7"
+    ],
+    "DueDateOffset": "2"
+  },
+  {
+    "TaskName": "Remove from Fidelity Wealthscape",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer. \nResolving this ticket via the portal will indicate that the task was applicable and has been done.\nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. \n\nFidelity Wealthscape \n- Remove employee in the User ID Maintenance tool \n- Remove from authorized calling access by contacting Northeast Blue \nResolving this ticket via the portal will indicate that the task was applicable and has been done",
+    "Reporter": "712020:abe71eb7-9034-48b6-bd98-00c4c7ae1178",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:343b10e9-da6e-43ea-8572-ba77c07565f7"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Remove from Custodian Call In access",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:abe71eb7-9034-48b6-bd98-00c4c7ae1178",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:343b10e9-da6e-43ea-8572-ba77c07565f7"
+    ],
+    "DueDateOffset": "5"
+  },
+  {
+    "TaskName": "Remove from Fidelity Annuity",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer. \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. \n\nFidelity Annuity \n- Submit an updated LOI on company letterhead to the Fidelity Annuity Department",
+    "Reporter": "712020:abe71eb7-9034-48b6-bd98-00c4c7ae1178",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:343b10e9-da6e-43ea-8572-ba77c07565f7"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Remove from Schwab",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer. \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. \n\nSchwab \n- Remove employee in the Launch Security Admin tool \n- Remove from authorized calling access by submitting the Authorized Agent Designation Form ",
+    "Reporter": "712020:abe71eb7-9034-48b6-bd98-00c4c7ae1178",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:343b10e9-da6e-43ea-8572-ba77c07565f7"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Remove RWA Employee Account",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer. \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. \n\nEmployee Account \n- Check to see if employee has an account at RWA ",
+    "Reporter": "712020:abe71eb7-9034-48b6-bd98-00c4c7ae1178",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:343b10e9-da6e-43ea-8572-ba77c07565f7"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Remove from SalesForce",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. \n\nSalesforce \n- Set a reminder for 5pm on the day of separation \n- Where the employee has an active user, deactivate the user \n- Check all 5 Salesforce environments, both production and sandbox instances, (AI, Polaris, M&A, OP, and Copado) to see if the employee is an active user in any of the Salesforce systems",
+    "Reporter": "ahsmith@rwawealth.com",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:8b8c51c2-d2b5-4d92-82ed-c62362465ef5",
+      "712020:a0501775-9b41-4fe7-8674-1bd4e943bf14",
+      "712020:b08281ef-d29b-49a1-9bdc-d9c68ba1cb68"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Orion Connect - Oauth Token",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "ahsmith@rwawealth.com",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:8b8c51c2-d2b5-4d92-82ed-c62362465ef5",
+      "712020:a0501775-9b41-4fe7-8674-1bd4e943bf14",
+      "712020:b08281ef-d29b-49a1-9bdc-d9c68ba1cb68"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "User with admin rights – check access to OWN data",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:1bc801b9-5897-4904-ae9d-2beea7052672",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:8b8c51c2-d2b5-4d92-82ed-c62362465ef5",
+      "712020:b08281ef-d29b-49a1-9bdc-d9c68ba1cb68",
+      "712020:a0501775-9b41-4fe7-8674-1bd4e943bf14"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Remove user from SAN and WAS referral channels",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:25359a9b-b8bb-49eb-9aab-cbe6eea61a5d",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:ff2c5644-0086-49db-a66f-563832fa9135"
+    ],
+    "DueDateOffset": "2"
+  },
+  {
+    "TaskName": "Shut off badge access to appropriate location",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:1a312fc5-129e-4487-b17d-9a3e4083ce7c",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:928bb7c4-6658-4347-94af-79ccd0371078"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Collect Keys to office entrances (Private Wealth Locations)",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.\nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket.",
+    "Reporter": "712020:1a312fc5-129e-4487-b17d-9a3e4083ce7c",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:928bb7c4-6658-4347-94af-79ccd0371078"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Shut off access to Fitness Center another applicable area. (Private Wealth Locations)",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. \n\nNewton: \n- Log into Taurus Building Engines Login (buildingengines.com) select “Key and Access Cards” enter the employee’s name, date, and time of deactivation in the details section. This will deactivate access to the Fitness Center as well as access to the entrance doors of 75/85/95 Wells Ave outside of business hours. \nChicago: \n- Contact Ted Warner 312.827.2612 ted.crowe@transwestern.com and/or Ashley Swader Ashley.Swader@transwestern.com 312.499.3662. This will deactivate access to the Fitness Center, the Lower Level Employee Tenant Lounge as well as access to the entrance doors of 150 N. Wacker Ave outside of business hours.",
+    "Reporter": "712020:1a312fc5-129e-4487-b17d-9a3e4083ce7c",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:928bb7c4-6658-4347-94af-79ccd0371078"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Deactivate Separated Employee office/building alarm code (Private Wealth Locations)",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. n\nNewton: \n- Log into Alarm.com and delete alarm code for suite 109 if applicable \nTroy, MI :\n- Contact Robert Warner at rwwarner@rwwarnerpc.com or 800.717.1018(Office) to have the employee’s alarm code for the suite deactivated.",
+    "Reporter": "712020:1a312fc5-129e-4487-b17d-9a3e4083ce7c",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:928bb7c4-6658-4347-94af-79ccd0371078"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Collect any office, desk, or file cabinet keys from employee (Private Wealth Locations)",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket.",
+    "Reporter": "712020:1a312fc5-129e-4487-b17d-9a3e4083ce7c",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:928bb7c4-6658-4347-94af-79ccd0371078"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Retire from ComplySci",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "vnoe@rwawealth.com",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "ibrennan@rwawealth.com"
+    ],
+    "DueDateOffset": "2"
+  },
+  {
+    "TaskName": "Archive former employee’s ADV 2B remove from The Hub and advise the CST to remove document from their workflow.",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. \n\nIf applicable, archive former employee’s ADV 2B and advise the CST to remove document from their workflow.",
+    "Reporter": "vnoe@rwawealth.com",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "ibrennan@rwawealth.com"
+    ],
+    "DueDateOffset": "2"
+  },
+  {
+    "TaskName": "SEI - Private Wealth",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:abe71eb7-9034-48b6-bd98-00c4c7ae1178",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:343b10e9-da6e-43ea-8572-ba77c07565f7"
+    ],
+    "DueDateOffset": "5"
+  },
+  {
+    "TaskName": "Remove From Monday.com",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:343b10e9-da6e-43ea-8572-ba77c07565f7",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Remove from Redblack",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "62d02c2a4c909d6a57ab4ee9",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:ffb2cc56-3559-4d4c-8f37-8abef00ece24"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Remove from Fidelity Wealthscape",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:7ddfec41-fcab-4e35-8ee7-5332bf3d5bc6",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:77a2b061-3ed9-455f-906c-e38ca4c8df77"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Schwab – Remove from SAC (custodial platform)",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:7ddfec41-fcab-4e35-8ee7-5332bf3d5bc6",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:343b10e9-da6e-43ea-8572-ba77c07565f7"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Fidelity – Ask FFOS to remove from RWA’s access",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:7ddfec41-fcab-4e35-8ee7-5332bf3d5bc6",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:77a2b061-3ed9-455f-906c-e38ca4c8df77"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Schwab – Complete access form",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:7ddfec41-fcab-4e35-8ee7-5332bf3d5bc6",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:343b10e9-da6e-43ea-8572-ba77c07565f7"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "SEI – Enter CSM ticket",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:7ddfec41-fcab-4e35-8ee7-5332bf3d5bc6",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:77a2b061-3ed9-455f-906c-e38ca4c8df77"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "SEI – Remove from CConnect",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:7ddfec41-fcab-4e35-8ee7-5332bf3d5bc6",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:77a2b061-3ed9-455f-906c-e38ca4c8df77"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Docusign Family Office",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:7ddfec41-fcab-4e35-8ee7-5332bf3d5bc6",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "5b522236ead3d32bff255c9b"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Remove from Salesforce Sandbox instances",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "5b522236ead3d32bff255c9b",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:1bc801b9-5897-4904-ae9d-2beea7052672"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Salesforce - Remove installed package licenses",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket.",
+    "Reporter": "5b522236ead3d32bff255c9b",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:1bc801b9-5897-4904-ae9d-2beea7052672"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Shut off access to FL 30 on Alta Security",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. \n\nE-mail BOSFacilitiesRequests@ropesgray.com to request access removal for the Prudential Tower FL27",
+    "Reporter": "712020:1d71ffc5-c426-4a87-86f5-a7bbd551b7bb",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:1a312fc5-129e-4487-b17d-9a3e4083ce7c"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Prudential Tower access shut off",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. \n\nPut in a Building ticket to shut off access to the Prudential Tower lobby security checkpoint and elevator access.",
+    "Reporter": "712020:1d71ffc5-c426-4a87-86f5-a7bbd551b7bb",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:1a312fc5-129e-4487-b17d-9a3e4083ce7c"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Collect any office, desk, or file cabinet keys from employee (Family Office Locations)",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:1d71ffc5-c426-4a87-86f5-a7bbd551b7bb",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:1a312fc5-129e-4487-b17d-9a3e4083ce7c"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Remove office name tag and make sure office is cleared out by employee",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:1d71ffc5-c426-4a87-86f5-a7bbd551b7bb",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:1a312fc5-129e-4487-b17d-9a3e4083ce7c"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Remove from OneSource & Intela",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:aeb9f6ae-a951-43d5-8c7e-bc551a415085",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [
+      "712020:a7109b22-086c-4eb7-8171-60e0129a0320"
+    ],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "If applicable, update form ADV 2B and provide Family Office SF Admin with revised documents",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:907ac029-7877-400c-b6c3-86013df95fd5",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [],
+    "DueDateOffset": "-2"
+  },
+  {
+    "TaskName": "UHNW Institute License",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Family Office"
+    ],
+    "Description": "This is an initial alert for the offboarding task mentioned below, the offboard date might still be quite a ways away. There will be a reminder email when the due date is closer.  \nResolving this ticket via the portal will indicate that the task was applicable and has been done. \nIf the Task item is not applicable please add a comment saying N/A, or similar wording and proceed to resolve the Ticket. ",
+    "Reporter": "712020:84921a38-d39e-413a-b332-58c34706f9ce",
+    "Assignee": "712020:0bca1257-33b9-4b53-a7cc-1c400bf2ca1b",
+    "RequestParticipants": [],
+    "DueDateOffset": "-2"
+  },
+  {
+    "TaskName": "MAM Selective Wipe",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "",
+    "Reporter": "",
+    "Assignee": "HelpDesk",
+    "RequestParticipants": [],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Removing Users from Orion",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "",
+    "Reporter": "",
+    "Assignee": "HelpDesk",
+    "RequestParticipants": [],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Delete Lucidchart & Transfer File(s)",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "",
+    "Reporter": "",
+    "Assignee": "HelpDesk",
+    "RequestParticipants": [],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Disable iManage Account",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "",
+    "Reporter": "",
+    "Assignee": "HelpDesk",
+    "RequestParticipants": [],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Delete Fax account",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "",
+    "Reporter": "",
+    "Assignee": "HelpDesk",
+    "RequestParticipants": [],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Close any open envelopes and Docusign account",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "",
+    "Reporter": "",
+    "Assignee": "HelpDesk",
+    "RequestParticipants": [],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Remove User from Calendly",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "",
+    "Reporter": "",
+    "Assignee": "HelpDesk",
+    "RequestParticipants": [],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Create Separation Mimecast policy",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "",
+    "Reporter": "",
+    "Assignee": "HelpDesk",
+    "RequestParticipants": [],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Create a Bitlocker Entry",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "",
+    "Reporter": "",
+    "Assignee": "HelpDesk",
+    "RequestParticipants": [],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Delete Zoom and transfer meetings to manager",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "",
+    "Reporter": "",
+    "Assignee": "HelpDesk",
+    "RequestParticipants": [],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Adjust subordinates",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "If offboarded user is a manager, adjust subordinates in Entra",
+    "Reporter": "",
+    "Assignee": "HelpDesk",
+    "RequestParticipants": [],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Check Automation Task Completion",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "Perform any manuals checks against the automation to ensure everything is properly removed. ",
+    "Reporter": "",
+    "Assignee": "HelpDesk",
+    "RequestParticipants": [],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Check if user is in FO LinkPoint",
+    "EmployeeType": [
+      "Employee"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "Email linkpoint support support@linkpoint360.com",
+    "Reporter": "",
+    "Assignee": "HelpDesk",
+    "RequestParticipants": [],
+    "DueDateOffset": "0"
+  },
+  {
+    "TaskName": "Send out Retriever Shipping",
+    "EmployeeType": [
+      "Employee",
+      "Intern"
+    ],
+    "BusinessUnit": [
+      "Private Wealth",
+      "Family Office"
+    ],
+    "Description": "Send out Retriever box if the person is not bringing their equipment to the office",
+    "Reporter": "",
+    "Assignee": "HelpDesk",
+    "RequestParticipants": [],
+    "DueDateOffset": "0"
+  }
+]
