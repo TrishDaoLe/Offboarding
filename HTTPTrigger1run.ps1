@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-   Offboard an RWA employee, contractor, or intern.
+   Offboard an internal employee, contractor, or intern.
 .DESCRIPTION
    Using details from offboarding ticket, the Entra account will set to expire on their last day at 5pm and be disabled. Change and log password
    Block Signin, remove/revoke MFA, sign out of all active MS sessions and convert the usermailbox into shared mailbox.
