@@ -382,7 +382,7 @@ Task Due: $($subTaskDeadline.ToString('MMM d, yyyy h tt'))
 
 
 
-Write-Log -Message "=== RWA IT Offboarding Runbook Started ===" -Level "information"
+Write-Log -Message "===IT Offboarding Runbook Started ===" -Level "information"
 
 # Parse webhook JSON
 
@@ -443,7 +443,7 @@ Write-Log -Message "Fail Run On Any Error: $FailRunOnAnyError" -Activity "Parse 
 # 1) Connect to Jira Service Management
 Set-Step -Name "Connect to Jira Service Management" -Status "Started"
 try {
-    Connect-RWAJiraPS
+    Connect-JiraPS
 } 
     catch {
         Set-Step -Name "Connect to Jira Service Management" -Message "Connection failure" -Status "Failed" -Ticket $Ticket
